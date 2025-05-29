@@ -18,7 +18,7 @@ Um sistema completo para gerenciamento acadêmico com cadastro de alunos, profes
 ### 1. Clonar o repositório
 ```bash
 git clone <URL>
-cd sistema-de-gerenciamento-acad-mico
+cd sistema.escolar
 ```
 2. Criar e ativar ambiente virtual
    
