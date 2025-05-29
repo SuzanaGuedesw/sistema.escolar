@@ -74,8 +74,6 @@ sistema-academico/
 
 ✅ Interface por linha de comando
 
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/7b9ab279-edb2-46d9-88ce-96a4d3b19011" />
-
 ## Integrantes do Grupo
 - Ana Carolina Guedes Bueno
 - Maria Eduarda Gomes Romera
