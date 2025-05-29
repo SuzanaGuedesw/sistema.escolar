@@ -1,5 +1,5 @@
 # sistema.academico-poo
-# 🎓 Sistema Acadêmico com Python e SQLAlchemy
+# 🎓 Sistema Escolar com Python e SQLAlchemy
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0%2B-green)
