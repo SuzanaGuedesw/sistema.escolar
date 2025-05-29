@@ -1,4 +1,4 @@
-# sistema.academico-poo
+# sistema.escolar
 # 🎓 Sistema Escolar com Python e SQLAlchemy
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
